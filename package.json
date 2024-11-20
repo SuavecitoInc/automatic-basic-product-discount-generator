@@ -1,5 +1,5 @@
 {
-  "name": "product-discount-generator",
+  "name": "automatic-basic-product-discount-generator",
   "version": "1.0.0",
   "description": "The Product Discount Generator automates the creation of Automatic product discounts in Shopify. The discount will be created based on settings defined in the config.",
   "main": "index.js",
